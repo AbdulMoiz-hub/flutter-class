@@ -1,6 +1,6 @@
 void main(){
   /*
-  =============== Task ==============
+  //=============== Task ==============
   int math = 90;
   int physics = 90;
   int english = 90;
