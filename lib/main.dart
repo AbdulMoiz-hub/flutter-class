@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Flutter Demo',
-      home: ChessScreen(), // ab chess layout ki file banao aur usme st likh kar ye banao ok! Good Luck! 
+      home: ChessScreen(),
     );
   }
 }
