@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/chess_layout.dart';
 import 'package:myapp/profile_screen.dart';
+import 'package:myapp/whatsapp_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Flutter Demo',
-      home: ChessScreen(),
+      home: WhatsappScreen(),
     );
   }
 }
